@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[2018-08-23的日志]]></title>
-    <url>%2F2018%2F08%2F23%2F2018-08-23%E7%9A%84%E6%97%A5%E5%BF%97%2F</url>
-    <content type="text"></content>
+    <title><![CDATA[发现最酷的应用，寻找逝去的最酷体验]]></title>
+    <url>%2F2018%2F08%2F23%2FFind%2F</url>
+    <content type="text"><![CDATA[在这个后 Android 应用时代，国外各项软件已经趋于成熟，国内软件正在取消隔阂，准备向着用户而为。 这是最坏的时代，也是最好的时代。 国内绿色公约，统一推送正火，酷安开始进入大众眼线。如果我们抓紧当前，就是最好的时代；如果像之前那样发展，就是最坏的时代。 而我们，是发现最酷应用的一帮酷 gays。 什么能成为酷呢？可能是一打开应用时的一个启动画面，可能是这个应用非常的好用，也可能是这个 bug 非常酷。 为什么要发现酷应用呢？因为在这个局势下，酷应用有助于那些开发者们认识到自己做的是对的还是错的，也是为了整个 Android 圈生态。 本文转自LetITFlyBBS，欢迎在下方投稿你心目中最美的、最酷的应用。]]></content>
+      <tags>
+        <tag>Android</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[2018-08-23的日志]]></title>
@@ -19,6 +22,14 @@
     <content type="text"><![CDATA[2018-09-22日志今天按照Hexo和NexT的方法搭建了一个个人博客，托管在了GitHub上。 尽管花了一天时间，但是昨晚很有成就感呢，嘻嘻 我的主页Aiden’s World （才不告诉你点开是公益404） 嘛，第一次用Markdown来写日志，舒服！]]></content>
       <tags>
         <tag>Daily</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F2018%2F08%2F22%2Fop6fix%2F</url>
+    <content type="text"><![CDATA[大家吼啊！过气开发者来给大家做科普了嘻嘻嘻嘻嘻自从入了一加6，那是相当的省心，省电流畅，吃鸡还贼嗨感谢@lxk199623 的提议，让这篇脑内文章面世了 当我得益于高通骁龙845，畅游在安卓的海洋中时，好景不长，H2OS更新到了5.1.10续航突然尿崩，吃鸡还锁核……在不知道是系统调度问题还是毒瘤更新的问题的情况下，我开始了大胆的摸♂索 「1」、软件篇关闭一加商店内的自动更新！有些毒瘤本来镇压的好好的，一更新就满血复活了…比如QQ，Play上的版本虽然老，但是QQ在这个版本特别老实巴交，但现在呢？QQ被强行停止了还能被唤醒……真搞不懂原理是什么……最好还是手动更新吧QwQ 「2」系统篇 这个部分分几个小部分，每个部分结束后你都有五分钟的时间确认好你的设备是否翻车，并将 答案填涂 想法反馈到我这来(滑稽) 首先请解锁 ！！！！！！！！⚠警告⚠！！！！！！！ 解锁将丢失全部数据 你的数据将会全部丢失，包括你手机上的备份，请备份到电脑或是云端！ 这一步请直接下载一加6的工具箱 一加手机6工具箱 V2.0.0.exe https://pan.baidu.com/s/1PRIEBSXD6dqBNT0PtrbXGQ 密码：aptx 傻瓜式操作 刷入twrp 由于这次一加采用a/b分区，导致twrp的刷入方式有些奇妙。一加6工具箱里有刷入twrp的功能，但介绍和步骤都很迷，而且也不是特别放心，于是这里我来教大家刷入（废话有点多） 第一步、使用常规方法刷入临时rec 官方下载链接： https://dl.twrp.me/enchilada/twrp-3.2.1-0-enchilada.img.html 这一步就没什么好说的了，直接按照以前的方法刷入 第二步、刷入twrp installer，加固rec 官方下载链接： https://dl.twrp.me/enchilada/twrp-installer-enchilada-3.2.1-0.zip.html 启动临时rec后，刷入这个zip包即可获得永久twrp。 刷入Magisk Cust版本 由于一加6支持了我又爱又恨的Project Treble，导致不能直接刷入当前的Magisk官方版本，需要专门的Magisk Treble包。 下载链接：Magisk-v16.4-Treble_20180703010303.zip http://dwz.cn/87XSu6 密码：sora 刷入，然后安装 http://www.coolapk.com/apk/com.topjohnwu.magisk 即可 刷入Flash内核。 在机友的推荐和自己的摸♂索使用比较下，我自认为Flash内核是在游戏性能与日常使用最平衡最优秀的那个 由于这下载连接不是那么的稳定#(受虐滑稽)，可能需要特殊工具，这里楼主放出官方链接和网盘链接，各位自取 官方链接： https://nathanchance.me/downloads/kernels/op6/8.1.0/stable/flashkernel-op6-v1.05.zip 网盘链接：flashkernel-op6-v1.05_20180703011023.zip http://dwz.cn/87XStU 密码：sora 有更新了请提醒楼主补链哈 这里使用@稽安 的评论回复「内核的作用」 “CPU/GPU调度，CPU/GPU驱动程序，调度方案，RAM调度和缓存机制，漏洞补丁，基带驱动，其他的硬件驱动（摄像头等），基本是CPU的核心功能保证硬件可以正常使用 另一个大部分是boot，硬导和软导，软导就是开机引导，这么说吧，软导不通过，就卡开机，因为有限制代码，修改过的系统，md5对不上，对不上就终止引导，然后就卡第二屏” 然后我的介绍 “CPU的调度（更省电/更流畅或者更均衡）、超频相关（但并非所有的内核都超频）以及某些附加功能–如更快速的快速充电，限制充电，TCP/IP堵塞算法，Fsync等都包含在内核里面 如果你不满意官方的调度比如说不需要太高的性能想要省电，或者想要更极限的性能（625刷了某些内核频率能达到2.4GHz，恐怖如斯），或者断流严重（就是我的一加6），而官方内核是给大部分人用的，刷入某些满足你要求的内核就能满足你的需求 关于断流这点，因为大部分内核的TCP/IP协议是westwood协议，相较于官方来说会有很大的缓解，但不保证断流现象一定会消失” 系统篇结束 「3」调教篇 因为a/b分区问题，我很难保证直接刷入普通版Xposed会不会翻车，于是我们稳妥点，使用Magisk来实现Xposed 为了避免您的微信被封号，请严格按照我的步骤来，谢谢 在Magisk Manager中（以下简称MM），下载Xposed模块（SDK 27）并安装 重启之后，强行停止微信，下载Magisk专版Xposed Apk 地址：Xposed Installer_1530552110_20180703012206.apk http://dwz.cn/87XStV 密码：sora 安装模块 https://pan.baidu.com/wap/init?surl=WMHO3a-Bz7S5DQkbELQFOw 密码v9mm 由于Root后指纹支付不可用，你需要 http://www.coolapk.com/apk/com.surcumference.fingerprintpay 下载： http://www.coolapk.com/apk/com.oasisfeng.greenify ，安装完成后，激活，重启 打开绿色守护，按如下设置 这是我使用的对软件正常使用影响（个人认为）最小的设置方案，当然有更好的请在评论区艾特我，谢啦 如果您没有Google服务的话，请勿勾选 “为绿色化应用开启GCM推送 选项”我不推荐黑域，因为太粗暴了，直接咔嚓一刀切，而且使用起来也稍显麻烦，也许是我智商不够吧，操作逻辑不是很懂诶… 如果您不嫌麻烦的话呢#(受虐滑稽)，还可以将 http://www.coolapk.com/apk/com.click369.controlbp 添加到您的手机上，评论区一堆大神，学着他们去配置，每个人的软件都不一样，不好说。要是不懂的话，可以在评论区艾特我，我有时间的话还是很乐意解决的(滑稽) 配置调♂教结束，享受你的一加6吧！其他资源：Google Camera如何配置，可以在评论区艾特我或自己找谷歌相机评论区大佬 本文由我在2018年七月份发布于酷安，成功PY到首页。]]></content>
+      <tags>
+        <tag>Android,OnePlus,优化</tag>
       </tags>
   </entry>
 </search>
