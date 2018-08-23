@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/23/2018-08-23/</loc>
+    <lastmod>2018-08-23T07:05:17.817Z</lastmod>
+    <data>
+        <display>
+        <title></title>
+        <pubTime>2018-08-23T07:04:18.553Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2018/08/22/2018-09-22/</loc>
+    <lastmod>2018-08-23T02:24:41.823Z</lastmod>
+    <data>
+        <display>
+        <title>2018-09-22日志</title>
+        <pubTime>2018-08-22T11:57:46.000Z</pubTime>
+        
+        <tag>Daily</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+</urlset>
